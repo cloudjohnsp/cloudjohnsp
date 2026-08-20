@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @cloudjohnsp
-- 👀 I’m interested in Software Engineering & Cloud Computing...
-- 🌱 I’m currently learning Full Stack development & Cloud concepts...
+# Software Engineer focused on Cloud, Platform Engineering and reliability. Building with AWS, Terraform, Linux, Docker and observability.
+## Programming Languages 🥷
+- C#
+- GO
+- Python
+- TypeScript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudjohnsp&show_icons=true&theme=dracula)
+## Frameworks 🪄
+- .NET
+- Node.js
+- FastAPI
 
-<!---
-cloudjohnsp/cloudjohnsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Cloud ☁️
+- AWS 👑
+- Azure (AZ-900)
+- Cloudflare
+
+# Tools ⚙️
+- Docker
+- Kubernetes
+- Terraform
+
+# OS 🖥️
+- Linux
